@@ -7,12 +7,12 @@ prioritizes communication between different departments. CNS is used to design a
 structured and well-organized topology, satisfying all college needs (e.g. client). The
 CNS comes with an efficient network.
 
-##Objectives: -
+#Objectives: -
 The main objective of the proposed network is to update the network and also enhance
 capabilities and increase the flexibility of the network which will eventually provide
 good security.
 
-##Network Requirements: -
+#Network Requirements: -
  The new system should be able to reduce internet downtime.
  Download and upload links should be maintained above 5 Mbps speed requirement.
  Network will be scalable.
