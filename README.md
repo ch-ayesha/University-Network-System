@@ -14,7 +14,11 @@ good security.
 
 #Network Requirements: -
  The new system should be able to reduce internet downtime.
+
  Download and upload links should be maintained above 5 Mbps speed requirement.
+
  Network will be scalable.
+
  The system should support remote access.
+
  Should comprise of data centers with necessary security features and support.
